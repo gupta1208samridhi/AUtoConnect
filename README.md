@@ -13,20 +13,19 @@
 9. [Contact](#contact)
 10. [Acknowledgments](#acknowledgments)
 
----
 
-## =Overview**
-**AutoMate** is an **Intelligent Process Automation (IPA)** solution designed to automate repetitive and time-consuming business processes such as **data entry**, **document processing**, and **customer service interactions**. By leveraging **AI technologies** like OCR, NLP, and RPA, AutoMate helps businesses improve efficiency, reduce errors, and scale operations seamlessly.
+## Overview
+AutoConnect is an Intelligent Process Automation (IPA) solution designed to automate repetitive and time-consuming business processes such as data entry, document processing, and customer service interactions. By leveraging AI technologieslike OCR, NLP, and RPA, AutoMate helps businesses improve efficiency, reduce errors, and scale operations seamlessly.
 
 ---
 
 ## Features
-- Automated Data Entry**: Extract and input data from forms, invoices, and emails using OCR and NLP.
-- Document Processing**: Automatically classify and extract key information from documents like contracts and reports.
-- AI Chatbots**: Handle routine customer queries with NLP-powered chatbots.
-- Workflow Automation**: Automate end-to-end business processes using RPA.
-- Data Validation**: Ensure accuracy with rule-based and ML-based validation.
-- Monitoring Dashboard**: Track system performance and process completion rates in real-time.
+- Automated Data Entry: Extract and input data from forms, invoices, and emails using OCR and NLP.
+- Document Processing: Automatically classify and extract key information from documents like contracts and reports.
+- AI Chatbots: Handle routine customer queries with NLP-powered chatbots.
+- Workflow Automation: Automate end-to-end business processes using RPA.
+- Data Validation: Ensure accuracy with rule-based and ML-based validation.
+- Monitoring Dashboard: Track system performance and process completion rates in real-time.
 
 ---
 
